@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t">
+  <title id="t">Marco Niccolini — designer and engineer in Milan. Complex work, clear systems.</title>
+
+  <rect width="1200" height="300" fill="#0C0D0E"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" fill="none" stroke="#1F2325"/>
+
+  <text x="56" y="78" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="3.4" fill="#7B8285">MILANO · 45.46°N 9.19°E</text>
+
+  <rect x="56" y="98" width="34" height="3" fill="#C8A464"/>
+
+  <text x="56" y="168" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="58" font-weight="500" letter-spacing="-1.8" fill="#F2F1EE">Marco Niccolini</text>
+
+  <text x="56" y="204" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#A3A9AC">Designer &amp; engineer — founder at Semantics</text>
+
+  <!-- timeline: three spans, one "now" marker -->
+  <text x="742" y="104" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="9" letter-spacing="2.6" fill="#6E7477">2024 — NOW</text>
+
+  <g stroke="#24282A" stroke-width="1">
+    <line x1="742" y1="132" x2="1084" y2="132"/>
+    <line x1="800" y1="156" x2="1084" y2="156"/>
+    <line x1="858" y1="180" x2="1084" y2="180"/>
+  </g>
+
+  <g fill="#3B4143">
+    <rect x="739" y="129" width="6" height="6"/>
+    <rect x="797" y="153" width="6" height="6"/>
+    <rect x="855" y="177" width="6" height="6"/>
+  </g>
+
+  <line x1="1090" y1="118" x2="1090" y2="194" stroke="#C8A464" stroke-width="1"/>
+
+  <line x1="56" y1="246" x2="1144" y2="246" stroke="#1F2325"/>
+
+  <text x="56" y="274" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" letter-spacing="2.6" fill="#7B8285">COMPLEX WORK. CLEAR SYSTEMS.</text>
+  <text x="1144" y="274" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" letter-spacing="2.6" fill="#7B8285">PRODUCT · INTERFACE · CODE</text>
+</svg>
