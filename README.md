@@ -2,7 +2,7 @@
 
 I build software for work that cannot stop: railway operations, field crews, venues where a spreadsheet quietly turns into risk. Product, interface and code as one continuous line — I design the thing, then I build it.
 
-Founder at **[Semantics](https://marconiccolini.com/#semantics)**. **[Quantara](https://marconiccolini.com/work/quantara/)**, our operations platform for railway projects, runs on four sites in production. Before that: software engineer at Capgemini Engineering, then two years independent.
+Founder at **[Semantics](https://marconiccolini.com/#semantics)**. Before that: software engineer at Capgemini Engineering, then two years independent. The thread through all of it — making operational truth visible before it becomes a problem on site.
 
 ### Selected work
 
